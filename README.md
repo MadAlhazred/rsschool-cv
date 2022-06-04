@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MadAlhazred.github.io/rsschool-cv/cv
