@@ -1,8 +1,8 @@
 # Aleksandr Kostenko
-***
+
 ## Contacts
 * **Email:** alhazred@share.net.ua
-* **Telegram:** [@aleksandr_kostenko_1980][link2telegram]
+* **Telegram:** [@aleksandr_kostenko_1980](https://t.me/aleksandr_kostenko_1980)
 * **GitHub:** MadAlhazred
 * **Discord:** MadAlhazred#4795
 
@@ -15,7 +15,7 @@ I want to become a modern software engineer who has relevant skills.
 * MSSQL
 
 ## Code example
-```
+```javascript
 function multiply (a, b) {
 return a * b
 }
@@ -28,5 +28,3 @@ Kremenchuk State Polytechnic University
 * **Russian** - *native*
 * **Ukrainian** - *native*
 * **English** - *A1*
-
-[link2telegram][https://t.me/aleksandr_kostenko_1980]
