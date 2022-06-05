@@ -1,7 +1,7 @@
 # Aleksandr Kostenko
 
 ## Contacts
-* **Email:** alhazred@share.net.ua
+* **Email:** *alhazred@share.net.ua*
 * **Telegram:** [@aleksandr_kostenko_1980](https://t.me/aleksandr_kostenko_1980)
 * **GitHub:** MadAlhazred
 * **Discord:** MadAlhazred#4795
